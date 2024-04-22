@@ -9,7 +9,9 @@
 
 <h3 align="left">Social:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/pol-caparr%C3%B3s-escudero-9b582228a/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/pol-caparr%C3%B3s-escudero-9b582228a/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
