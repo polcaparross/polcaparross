@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Node.js, and SQL, among others.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
