@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pol Caparrós</h1>
 <h3 align="center">A passionate Full-Stack student at UAB - Computing Engineer. My love for technology drives me to continuously explore and learn, always seeking new ways to innovate and solve problems.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Node.js, and SQL, among others.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Java, Node.js, Vue, C++ and SQL, among others.**
 
 
 <p align="left">
